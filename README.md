@@ -1,5 +1,3 @@
-# DoAnTotNgiep
-
 # To install and run.
 
 1. Backend website
